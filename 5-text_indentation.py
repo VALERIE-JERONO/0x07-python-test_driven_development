@@ -7,7 +7,7 @@ Adds two new lines after a set of characters.
 
 def text_indentation(text):
     """Prints text with added two newlines
-    after each of these characters {'.', '?', ':'}.
+    after each of these characters  {'.', '?', ':'}.
     """
 
     if type(text) is not str:
