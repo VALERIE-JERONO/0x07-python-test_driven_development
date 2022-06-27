@@ -16,6 +16,7 @@ void print_python_string(PyObject *p)
         return;
     }
 
+    
     if (PyUnicode_IS_COMPACT_ASCII(p))
         type = "compact ascii";
     else
