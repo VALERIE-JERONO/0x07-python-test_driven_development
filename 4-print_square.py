@@ -7,7 +7,7 @@ Prints a square with the character #.
 
 def print_square(size):
     """Prints a square where size is
-    the length and width of the square.
+    the length and width of the square .
     """
 
     if type(size) is not int:
