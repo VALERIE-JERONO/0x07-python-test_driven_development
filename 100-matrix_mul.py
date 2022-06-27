@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Module matrix_mul
-Multiplies two matrices and returns the result.
+Multiplies two matrices and returns the result .
 """
 
 
