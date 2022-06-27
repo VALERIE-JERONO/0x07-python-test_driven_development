@@ -8,7 +8,7 @@ Divides each element of a matrix of numbers by a number
 def matrix_divided(matrix, div):
     """Returns a new matrix (list of list)
     with the result of the division of matrix by div
-    rounded to 2 decimal places.
+    rounded to 2 decimal places .
     """
 
     if not isinstance(matrix, list) or len(matrix) == 0 or not matrix[0]:
